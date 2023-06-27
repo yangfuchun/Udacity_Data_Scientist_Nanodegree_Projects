@@ -30,8 +30,8 @@ This project will include a web app where people, as an emergency worker, can in
                 |-- README
           |-- README
           
-- [categories.csv]: contains full descriptions of categories 
-- [messages.csv]: contains the messages of real world data 
+- categories.csv: contains full descriptions of categories 
+- messages.csv: contains the messages of real world data 
 notebooks: Includes Jupyter Notebooks with the code used for data exploration, visualization, and modeling.
 
 #### List of python libraries used
