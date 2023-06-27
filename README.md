@@ -1,5 +1,4 @@
 # Udacity_Data_Scientist_Nanodegree_Projects
-# Udacity_Data_Scientist_Nanodegree_Projects
 
 ### Disaster_Response_Project
 
@@ -8,10 +7,32 @@ In this project, I will build a model to classify messages sent during disasters
 This project will include a web app where people, as an emergency worker, can input a new message and get classification results in several categories. The web app will also display visualizations of the data. 
 
 #### Repository Structure
+        disaster_response_pipeline
+          |-- app
+                |-- templates
+                        |-- go.html
+                        |-- master.html
+                |-- run.py
+          |-- data
+                |-- disaster_message.csv
+                |-- disaster_categories.csv
+                |-- DisasterResponse.db
+                |-- process_data.py
+          |-- models
+                |-- classifier.pkl
+                |-- train_classifier.py
+          |-- Preparation
+                |-- categories.csv
+                |-- ETL Pipeline Preparation.ipynb
+                |-- ETL_Preparation.db
+                |-- messages.csv
+                |-- ML Pipeline Preparation.ipynb
+                |-- README
+          |-- README
+          
 - [categories.csv]: contains full descriptions of categories 
 - [messages.csv]: contains the messages of real world data 
 notebooks: Includes Jupyter Notebooks with the code used for data exploration, visualization, and modeling.
 
 #### List of python libraries used
 `sqlalchemy` `pandas` `sklearn` `numpy` `pickle` `NLTK` 
-
