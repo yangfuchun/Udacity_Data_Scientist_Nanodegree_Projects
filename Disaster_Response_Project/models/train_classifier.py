@@ -20,7 +20,7 @@ import pickle
 
 def import_data(databaseFile):
     engine = create_engine('sqlite:///'+databaseFile)
-    df = pd.read_sql_table('ETL_Preparation', engine)
+    df = pd.read_sql_table('DisasterResponse', engine)
     X = df.message
     y = df[df.columns[4:]]
     return X, y
