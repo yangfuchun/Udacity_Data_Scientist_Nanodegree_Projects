@@ -3,11 +3,11 @@
 ***This repository serves as a collection of the various projects I have completed as part of the Udacity Data Scientist Nanodegree program. Within this repository, you will find a diverse range of projects that showcase my skills and knowledge in the field of data science.***
 
 ## Table of Contents 
-1. [Seattle_Airbnb_Project](https://github.com/yangfuchun/Udacity_Data_Scientist_Nanodegree_Projects/blob/main/README.md#seattle_airbnb_project)
-2. [Disaster_Response_Project](https://github.com/yangfuchun/Udacity_Data_Scientist_Nanodegree_Projects/blob/main/README.md#disaster_response_project)
-3. [Recommendations_with_IBM](https://github.com/yangfuchun/Udacity_Data_Scientist_Nanodegree_Projects/blob/main/README.md#recommendations_with_ibm)
+I. [Seattle_Airbnb_Project](https://github.com/yangfuchun/Udacity_Data_Scientist_Nanodegree_Projects/blob/main/README.md#seattle_airbnb_project)
+II. [Disaster_Response_Project](https://github.com/yangfuchun/Udacity_Data_Scientist_Nanodegree_Projects/blob/main/README.md#disaster_response_project)
+III. [Recommendations_with_IBM](https://github.com/yangfuchun/Udacity_Data_Scientist_Nanodegree_Projects/blob/main/README.md#recommendations_with_ibm)
 
-### Seattle_Airbnb_Project
+## Seattle_Airbnb_Project
 ![image](https://github.com/yangfuchun/Udacity_Data_Scientist_Nanodegree_Projects/assets/100629848/ad6e0d11-f3bb-4961-9fbf-1b404a66ca66)
 Seattle’s Airbnb market offers a diverse range of accommodations, attracting travelers from around the world. In this analysis, we delve into the dynamic pricing trends across different months and uncover the factors that determine whether a host achieves super-host status. Combining insights from both aspects, we gain a comprehensive understanding of the Seattle Airbnb landscape. 
 
@@ -30,7 +30,7 @@ My analysis highlights specific neighborhoods and property types that command hi
 #### List of python libraries used
  `pandas` `sklearn` `numpy` `seaborn` `matplotlib`
 
-### Disaster_Response_Project
+## II. Disaster_Response_Project
 
 In this project, I will build a model to classify messages sent during disasters. There are 36 predefined categories, such as Aid Related, Medical Help, Search And Rescue, and more. By categorizing these messages, we can ensure they reach the appropriate disaster relief agency. To accomplish this, I will develop a basic ETL (Extract, Transform, Load) and Machine Learning pipeline. It's important to note that this is a multi-label classification task, as a message can belong to one or more categories. The dataset we'll be using is provided by Figure Eight and consists of real messages sent during disaster events.
 
@@ -80,7 +80,7 @@ Run the following command in the app's directory to run your web app. python run
 
 3. Go to http://0.0.0.0:3001/
    
-### Recommendations_with_IBM
+## III. Recommendations_with_IBM
 For this project, my objective is to investigate user interactions with articles on the IBM Watson Studio platform. The dashboard above presents a sample layout depicting articles on the IBM Platform. It showcases the latest articles and proposes the inclusion of a personalized recommendation board to highlight articles most pertinent to individual users. To achieve this, I will analyze the available data on the IBM Watson Studio platform, enabling me to determine the most suitable articles to recommend to each user. This study aims to enhance the user experience by providing relevant and engaging content.
 ![image](https://github.com/yangfuchun/Udacity_Data_Scientist_Nanodegree_Projects/assets/100629848/9e0f4ee1-59f0-4728-b73a-8923e0f0dddf)
 
