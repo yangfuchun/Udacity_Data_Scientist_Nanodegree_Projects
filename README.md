@@ -1,4 +1,4 @@
-# Udacity_Data_Scientist_Nanodegree_Projects
+# Udacity_Data_Scientist_Nanodegree_Program_Projects
 
 ***This repository serves as a collection of the various projects I have completed as part of the Udacity Data Scientist Nanodegree program. Within this repository, you will find a diverse range of projects that showcase my skills and knowledge in the field of data science.***
 
