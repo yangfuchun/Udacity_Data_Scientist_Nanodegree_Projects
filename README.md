@@ -20,7 +20,6 @@ By applying a machine learning approach, we identified several key factors that 
 #### Property Type and Neighborhood Analysis
 My analysis highlights specific neighborhoods and property types that command higher prices in Seattle. Cascade's Boat, Beacon Hill's Camper, Magnolia's Condo, and West Seattle emerged as desirable locations, offering unique experiences and attractive surroundings. Hosts and guests can take these findings into account when selecting accommodations or deciding where to host their properties.
 
-
 #### Description of files
 | Data Files  | Description |
 | ------------- | ------------- |
@@ -80,3 +79,10 @@ To run ML pipeline that trains classifier and saves python models/train_classifi
 Run the following command in the app's directory to run your web app. python run.py
 
 3. Go to http://0.0.0.0:3001/
+   
+### Recommendations_with_IBM
+For this project, my objective is to investigate user interactions with articles on the IBM Watson Studio platform. The dashboard above presents a sample layout depicting articles on the IBM Platform. It showcases the latest articles and proposes the inclusion of a personalized recommendation board to highlight articles most pertinent to individual users. To achieve this, I will analyze the available data on the IBM Watson Studio platform, enabling me to determine the most suitable articles to recommend to each user. This study aims to enhance the user experience by providing relevant and engaging content.
+![image](https://github.com/yangfuchun/Udacity_Data_Scientist_Nanodegree_Projects/assets/100629848/9e0f4ee1-59f0-4728-b73a-8923e0f0dddf)
+
+#### Description of files
+Recommendations_with_IBM.ipynb: 
