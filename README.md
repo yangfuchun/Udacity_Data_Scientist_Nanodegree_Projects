@@ -3,7 +3,7 @@
 ***This repository serves as a collection of the various projects I have completed as part of the Udacity Data Scientist Nanodegree program. Within this repository, you will find a diverse range of projects that showcase my skills and knowledge in the field of data science.***
 
 ## Table of Contents 
-1. **Seattle_Airbnb_Project**
+1. [Seattle_Airbnb_Project](https://github.com/yangfuchun/Udacity_Data_Scientist_Nanodegree_Projects/blob/main/README.md#seattle_airbnb_project)
 2. **Disaster_Response_Project**
 3. **Recommendations_with_IBM**
 
