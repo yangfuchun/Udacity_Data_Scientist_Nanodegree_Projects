@@ -35,6 +35,7 @@ My analysis highlights specific neighborhoods and property types that command hi
 In this project, I will build a model to classify messages sent during disasters. There are 36 predefined categories, such as Aid Related, Medical Help, Search And Rescue, and more. By categorizing these messages, we can ensure they reach the appropriate disaster relief agency. To accomplish this, I will develop a basic ETL (Extract, Transform, Load) and Machine Learning pipeline. It's important to note that this is a multi-label classification task, as a message can belong to one or more categories. The dataset we'll be using is provided by Figure Eight and consists of real messages sent during disaster events.
 
 This project will include a web app where people, as an emergency worker, can input a new message and get classification results in several categories. The web app will also display visualizations of the data. 
+![image](https://github.com/yangfuchun/Udacity_Data_Scientist_Nanodegree_Projects/assets/100629848/4b1f263e-eb0b-4827-86af-489d1e7a510d)
 
 #### Repository Structure
         disaster_response_pipeline
@@ -94,4 +95,5 @@ For this project, my objective is to investigate user interactions with articles
 
 ## Acknowledgements
 - Udacity for providing an excellent Data Scientist training program
+- Figure 8 for making the disaster messages available for training 
 - IBM for providing user-interaction articles dataset 
