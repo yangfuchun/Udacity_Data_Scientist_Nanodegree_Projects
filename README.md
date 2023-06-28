@@ -1,4 +1,23 @@
 # Udacity_Data_Scientist_Nanodegree_Projects
+![Udacity Data Scientist Nanodegree Program](image-1.png)
+
+![Seattle, Washington](image.png)
+### Seattle_Airbnb_Project
+Seattle’s Airbnb market offers a diverse range of accommodations, attracting travelers from around the world. In this analysis, we delve into the dynamic pricing trends across different months and uncover the factors that determine whether a host achieves super-host status. Combining insights from both aspects, we gain a comprehensive understanding of the Seattle Airbnb landscape. 
+
+#### Price Trends
+The analysis reveals that Airbnb prices in Seattle vary significantly based on the month, with a peak during the summer months, especially in June and July. Understanding these seasonal fluctuations can help hosts optimize pricing strategies and enable guests to plan their trips more effectively.
+
+#### Factors Affecting Superhost Status
+By applying a machine learning approach, we identified several key factors that determine whether a host achieves superhost status. These factors include host tenure, responsiveness (response time and rate), acceptance rate, hosting experience (total listings count), and effective communication skills (review scores communication). Hosts can leverage these insights to increase their chances of becoming recognized superhosts and enhancing their reputation on the platform.
+
+#### Property Type and Neighborhood Analysis
+My analysis highlights specific neighborhoods and property types that command higher prices in Seattle. Cascade's Boat, Beacon Hill's Camper, Magnolia's Condo, and West Seattle emerged as desirable locations, offering unique experiences and attractive surroundings. Hosts and guests can take these findings into account when selecting accommodations or deciding where to host their properties.
+
+#### Description of files
+- [calendar.csv](https://www.kaggle.com/datasets/airbnb/seattle): Contains date, price, and availabiltiy information 
+- [listings.csv](https://www.kaggle.com/datasets/airbnb/seattle): Contains rich information such as host profile, neighborhood information, housing conditions 
+- [reviews.csv](https://www.kaggle.com/datasets/airbnb/seattle): Contains comments and reviews from reviewers 
 
 ### Disaster_Response_Project
 
