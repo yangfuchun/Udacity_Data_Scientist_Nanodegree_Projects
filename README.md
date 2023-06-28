@@ -18,6 +18,11 @@ My analysis highlights specific neighborhoods and property types that command hi
 - [calendar.csv](https://www.kaggle.com/datasets/airbnb/seattle): Contains date, price, and availabiltiy information 
 - [listings.csv](https://www.kaggle.com/datasets/airbnb/seattle): Contains rich information such as host profile, neighborhood information, housing conditions 
 - [reviews.csv](https://www.kaggle.com/datasets/airbnb/seattle): Contains comments and reviews from reviewers 
+| Data Files  | Description |
+| ------------- | ------------- |
+| [calendar.csv](https://www.kaggle.com/datasets/airbnb/seattle)  | Contains date, price, and availabiltiy information of Airbnbs  |
+| [listings.csv](https://www.kaggle.com/datasets/airbnb/seattle)  | Contains rich information such as host profile, neighborhood information, housing conditions   |
+| [reviews.csv](https://www.kaggle.com/datasets/airbnb/seattle)  | Contains comments and reviews from reviewers |
 
 ### Disaster_Response_Project
 
