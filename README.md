@@ -1,7 +1,8 @@
 # Udacity_Data_Scientist_Nanodegree_Projects
-![Udacity Data Scientist Nanodegree Program](image-1.png)
+![Udacity Data Scientist Nanodegree Program](![image](https://github.com/yangfuchun/Udacity_Data_Scientist_Nanodegree_Projects/assets/100629848/ffd73cdd-d0e5-4a87-9cce-75e2647b6188))
 
-![Seattle, Washington](image.png)
+![Seattle, Washington](![image](https://github.com/yangfuchun/Udacity_Data_Scientist_Nanodegree_Projects/assets/100629848/ad6e0d11-f3bb-4961-9fbf-1b404a66ca66))
+
 ### Seattle_Airbnb_Project
 Seattle’s Airbnb market offers a diverse range of accommodations, attracting travelers from around the world. In this analysis, we delve into the dynamic pricing trends across different months and uncover the factors that determine whether a host achieves super-host status. Combining insights from both aspects, we gain a comprehensive understanding of the Seattle Airbnb landscape. 
 
