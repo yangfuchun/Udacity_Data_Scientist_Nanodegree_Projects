@@ -15,14 +15,10 @@ By applying a machine learning approach, we identified several key factors that 
 My analysis highlights specific neighborhoods and property types that command higher prices in Seattle. Cascade's Boat, Beacon Hill's Camper, Magnolia's Condo, and West Seattle emerged as desirable locations, offering unique experiences and attractive surroundings. Hosts and guests can take these findings into account when selecting accommodations or deciding where to host their properties.
 
 #### Description of files
-- [calendar.csv](https://www.kaggle.com/datasets/airbnb/seattle): Contains date, price, and availabiltiy information 
-- [listings.csv](https://www.kaggle.com/datasets/airbnb/seattle): Contains rich information such as host profile, neighborhood information, housing conditions 
-- [reviews.csv](https://www.kaggle.com/datasets/airbnb/seattle): Contains comments and reviews from reviewers
-
-
 | Data Files  | Description |
 | ------------- | ------------- |
-| [calendar.csv](https://www.kaggle.com/datasets/airbnb/seattle)  | Contains date, price, and availabiltiy information of Airbnbs  |
+| [calendar.csv](https://www.kaggle.com/datasets/airbnb/seattle)  | Contains `listing_id` - the unique identifier for the listing, `date` - the date for which the availability and price information is provided, `available` - the listing is available (t) or not (f) on the corresponding date
+price: This column represents the price for the listing on the corresponding date, given that it is available. The price is denoted in dollars.  |
 | [listings.csv](https://www.kaggle.com/datasets/airbnb/seattle)  | Contains rich information such as host profile, neighborhood information, housing conditions   |
 | [reviews.csv](https://www.kaggle.com/datasets/airbnb/seattle)  | Contains comments and reviews from reviewers |
 
