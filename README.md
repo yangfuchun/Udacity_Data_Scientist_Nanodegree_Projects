@@ -1,5 +1,6 @@
 # Udacity_Data_Scientist_Nanodegree_Projects
 
+## Introduction: This repository serves as a collection of the various projects I have completed as part of the Udacity Data Scientist Nanodegree program. Within this repository, you will find a diverse range of projects that showcase my skills and knowledge in the field of data science.
 
 ### Seattle_Airbnb_Project
 ![image](https://github.com/yangfuchun/Udacity_Data_Scientist_Nanodegree_Projects/assets/100629848/ad6e0d11-f3bb-4961-9fbf-1b404a66ca66)
@@ -14,13 +15,16 @@ By applying a machine learning approach, we identified several key factors that 
 #### Property Type and Neighborhood Analysis
 My analysis highlights specific neighborhoods and property types that command higher prices in Seattle. Cascade's Boat, Beacon Hill's Camper, Magnolia's Condo, and West Seattle emerged as desirable locations, offering unique experiences and attractive surroundings. Hosts and guests can take these findings into account when selecting accommodations or deciding where to host their properties.
 
+
 #### Description of files
 | Data Files  | Description |
 | ------------- | ------------- |
-| [calendar.csv](https://www.kaggle.com/datasets/airbnb/seattle)  | Contains `listing_id` - the unique identifier for the listing, `date` - the date for which the availability and price information is provided, `available` - the listing is available (t) or not (f) on the corresponding date
-price: This column represents the price for the listing on the corresponding date, given that it is available. The price is denoted in dollars.  |
-| [listings.csv](https://www.kaggle.com/datasets/airbnb/seattle)  | Contains rich information such as host profile, neighborhood information, housing conditions   |
-| [reviews.csv](https://www.kaggle.com/datasets/airbnb/seattle)  | Contains comments and reviews from reviewers |
+| [calendar.csv](https://www.kaggle.com/datasets/airbnb/seattle)  | Airbnb calendar information including `listing_id` - the unique identifier for the listing, `date` - the date for which the availability and price information is provided, `available` - the listing is available (t) or not (f) on the corresponding date, `price` - the price for the listing on the corresponding date, given that it is available.|
+| [listings.csv](https://www.kaggle.com/datasets/airbnb/seattle)  | Airbnb listings in Seattle, including details such as `property` descriptions, `amenities`, `host` information, `location`, `availability`, `pricing`, `review` scores, etc. |
+| [reviews.csv](https://www.kaggle.com/datasets/airbnb/seattle)  | Airbnb reviews for specific listing in Seattle, with corresponding information such as the `reviewer's ID`, `name`, `review date`, and their `comments` |
+
+#### List of python libraries used
+ `pandas` `sklearn` `numpy` `seaborn` `matplotlib`
 
 ### Disaster_Response_Project
 
@@ -52,9 +56,13 @@ This project will include a web app where people, as an emergency worker, can in
                 |-- README
           |-- README
           
-- categories.csv: contains full descriptions of categories 
-- messages.csv: contains the messages of real world data 
-notebooks: Includes Jupyter Notebooks with the code used for data exploration, visualization, and modeling.
+#### Description of files
+| Folders  | Description |
+| ------------- | ------------- |
+| App | Templates folder including HTML templates and "run.py" for the web application |
+| Data | `disaster_categories.csv`, `disaster_messages.csv` contains full description of categories and messages from past disasters; `DisasterResponse.db` has data cleaned and loaded into an SQLite database; the cleaning code in the final ETL script is `process_data.py` |
+| Models | `classifier.pkl` and `train_classifier.py` for the Machine Learning model |
+| Preparation | Cleaning, data wrangling, data visualiztions in Jupyter notebooks |
 
 #### List of python libraries used
 `sqlalchemy` `pandas` `sklearn` `numpy` `pickle` `NLTK` 
