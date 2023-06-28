@@ -4,8 +4,8 @@
 
 ## Table of Contents 
 1. [Seattle_Airbnb_Project](https://github.com/yangfuchun/Udacity_Data_Scientist_Nanodegree_Projects/blob/main/README.md#seattle_airbnb_project)
-2. **Disaster_Response_Project**
-3. **Recommendations_with_IBM**
+2. [Disaster_Response_Project](https://github.com/yangfuchun/Udacity_Data_Scientist_Nanodegree_Projects/blob/main/README.md#disaster_response_project)
+3. [Recommendations_with_IBM](https://github.com/yangfuchun/Udacity_Data_Scientist_Nanodegree_Projects/blob/main/README.md#recommendations_with_ibm)
 
 ### Seattle_Airbnb_Project
 ![image](https://github.com/yangfuchun/Udacity_Data_Scientist_Nanodegree_Projects/assets/100629848/ad6e0d11-f3bb-4961-9fbf-1b404a66ca66)
