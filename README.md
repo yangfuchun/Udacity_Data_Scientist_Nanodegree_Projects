@@ -93,7 +93,19 @@ For this project, my objective is to investigate user interactions with articles
 #### List of python libraries used
 `pandas` `numpy` `pickle` `matplotlib` 
 
+## 4. Sparkify_Project
+
+In this project, I will be working with Sparkify, a music streaming service similar to Spotify and Pandora. The goal is to predict user churn, i.e., identify users who are likely to cancel their subscription. By detecting churn in advance, the company can take appropriate measures to retain those users.
+
+#### Description of files
+- mini_sparkify_event_data.json: json file that contains user behavior data 
+
+#### List of python libraries used
+`pandas` `numpy` `pyspark` `matplotlib` `seaborn` 
+
+
 ## Acknowledgements
 - Udacity for providing an excellent Data Scientist training program
 - Figure 8 for making the disaster messages available for training 
 - IBM for providing user-interaction articles dataset 
+
