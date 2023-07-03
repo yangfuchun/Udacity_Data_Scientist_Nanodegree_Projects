@@ -94,6 +94,7 @@ For this project, my objective is to investigate user interactions with articles
 `pandas` `numpy` `pickle` `matplotlib` 
 
 ## 4. Sparkify_Project
+![image](https://github.com/yangfuchun/Udacity_Data_Scientist_Nanodegree_Projects/assets/100629848/c7f7118c-26c3-4e19-b6ad-809b7e6f507f)
 
 In this project, I will be working with Sparkify, a music streaming service similar to Spotify and Pandora. The goal is to predict user churn, i.e., identify users who are likely to cancel their subscription. By detecting churn in advance, the company can take appropriate measures to retain those users.
 
