@@ -103,6 +103,7 @@ In this project, I will be working with Sparkify, a music streaming service simi
 #### List of python libraries used
 `pandas` `numpy` `pyspark` `matplotlib` `seaborn` 
 
+For a more detailed blog post please refer to this one: https://medium.com/@yangfchn/sparkify-project-predicting-user-churn-with-apache-spark-ae528e773af0
 
 ## Acknowledgements
 - Udacity for providing an excellent Data Scientist training program
