@@ -6,7 +6,7 @@
 1. [Seattle_Airbnb_Project](https://github.com/yangfuchun/Udacity_Data_Scientist_Nanodegree_Projects/blob/main/README.md#seattle_airbnb_project)
 2. [Disaster_Response_Project](https://github.com/yangfuchun/Udacity_Data_Scientist_Nanodegree_Projects/blob/main/README.md#disaster_response_project)
 3. [Recommendations_with_IBM](https://github.com/yangfuchun/Udacity_Data_Scientist_Nanodegree_Projects/blob/main/README.md#recommendations_with_ibm)
-
+4. [Sparkify_Project](https://github.com/yangfuchun/Udacity_Data_Scientist_Nanodegree_Projects/blob/main/README.md#4-sparkify_project)
 ## 1. Seattle_Airbnb_Project
 ![image](https://github.com/yangfuchun/Udacity_Data_Scientist_Nanodegree_Projects/assets/100629848/ad6e0d11-f3bb-4961-9fbf-1b404a66ca66)
 Seattle’s Airbnb market offers a diverse range of accommodations, attracting travelers from around the world. In this analysis, we delve into the dynamic pricing trends across different months and uncover the factors that determine whether a host achieves super-host status. Combining insights from both aspects, we gain a comprehensive understanding of the Seattle Airbnb landscape. 
@@ -94,6 +94,7 @@ For this project, my objective is to investigate user interactions with articles
 `pandas` `numpy` `pickle` `matplotlib` 
 
 ## 4. Sparkify_Project
+![image](https://github.com/yangfuchun/Udacity_Data_Scientist_Nanodegree_Projects/assets/100629848/c7f7118c-26c3-4e19-b6ad-809b7e6f507f)
 
 In this project, I will be working with Sparkify, a music streaming service similar to Spotify and Pandora. The goal is to predict user churn, i.e., identify users who are likely to cancel their subscription. By detecting churn in advance, the company can take appropriate measures to retain those users.
 
