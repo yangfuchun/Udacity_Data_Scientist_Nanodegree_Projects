@@ -44,15 +44,12 @@ This project will include a web app where people, as an emergency worker, can in
                         |-- go.html
                         |-- master.html
                 |-- run.py
-          |-- data
-                |-- disaster_message.csv
-                |-- disaster_categories.csv
-                |-- DisasterResponse.db
-                |-- process_data.py
           |-- models
                 |-- classifier.pkl
                 |-- train_classifier.py
-          |-- Preparation
+          |-- data preparations
+                |-- DisasterResponse.db
+                |-- process_data.py
                 |-- categories.csv
                 |-- ETL Pipeline Preparation.ipynb
                 |-- ETL_Preparation.db
@@ -75,7 +72,7 @@ This project will include a web app where people, as an emergency worker, can in
 #### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
 
-2. To run ETL pipeline that cleans data and stores in database python data/process_data.py data/messages.csv data/categories.csv data/DisasterResponse.db
+2. To run ETL pipeline that cleans data and stores in database python data preparations/process_data.py data preparations/messages.csv data preparations/categories.csv data preparations/DisasterResponse.db
 To run ML pipeline that trains classifier and saves python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl
 Run the following command in the app's directory to run your web app. python run.py
 
