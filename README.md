@@ -74,7 +74,7 @@ This project will include a web app where people, as an emergency worker, can in
 
 2.
 - To run ETL pipeline that cleans data and stores in database python data_preparations/process_data.py data_preparations/messages.csv data_preparations/categories.csv data_preparations/DisasterResponse.db
-- To run ML pipeline that trains classifier and saves python models/classifier.py data_preparations/DisasterResponse.db models/classifier.pkl
+- To run ML pipeline that trains classifier and saves python models/train_classifier.py data_preparations/DisasterResponse.db models/classifier.pkl
 - Run the following command in the app's directory to run your web app. python run.py
 
 4. Go to http://0.0.0.0:3001/
