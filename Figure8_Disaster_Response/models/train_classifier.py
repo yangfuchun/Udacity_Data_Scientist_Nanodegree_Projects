@@ -74,10 +74,10 @@ def build_model():
         ('moc', MultiOutputClassifier(RandomForestClassifier())),
     ])
     parameters = {
-        'clf__estimator__n_estimators': [5],
-        'clf__estimator__min_samples_split': [2],
+        'moc__estimator__n_estimators': [10, 50],
+        'moc__estimator__min_samples_split': [2, 5]
     }
-    model = GridSearchCV(pipeline, param_grid=parameters, n_jobs=4, verbose=2, cv=3)
+    model = GridSearchCV(pipeline, param_grid=parameters)
     return model
 
 def model_eval(model, X_test, y_test):
